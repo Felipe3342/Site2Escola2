@@ -9,7 +9,6 @@
 </head>
     <body>
         <header class="cabecalho">
-            <img class="cabecalho-imagem" src="image 1.png" alt="image-cabecalho">
             <h1 class="cabecalho-titulo" >Site Escola</h1>
             <ul class="cabecalgo-lista" >
                 <li class="cabecalho-item">Instituiçao</li>
