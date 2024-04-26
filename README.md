@@ -8,7 +8,7 @@
     <header class="cabecalho">
         <h1>site escola</h1>
         <ul>
-            <li>instituicao</li>
+            <li>instituicão</li>
             <li>estudantes</li>
         </ul>
     </header>
