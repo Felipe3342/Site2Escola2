@@ -16,7 +16,7 @@
     </header>
 </body>
     <footer class="rodepe">
-        <li> oiii </li>
+        <li> [insira texto] </li>
     </footer>
 
 
