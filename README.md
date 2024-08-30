@@ -18,7 +18,7 @@
         </ul>
     </header>
     <section class="section1"> <img scr="download.jpeg" alt="Sukuna"> <h2>King of The Curses</h2> </section>
-    <section class="section2"> <h3>section2</h3> </section>
+    <section class="section2"> <img scr="download (2).jpeg" alt="Gojo"> <h3>O Honrado</h3> </section>
     
 </body>
     <footer class="rodepe">
