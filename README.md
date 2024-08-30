@@ -17,7 +17,7 @@
             <li class="cabecalho-item">estudantes</li>
         </ul>
     </header>
-    <section class="section1"> <h2>section1</h2> </section>
+    <section class="section1"> <img scr="download.jpeg" alt="Sukuna"> <h2>King of The Curses</h2> </section>
     <section class="section2"> <h3>section2</h3> </section>
     
 </body>
